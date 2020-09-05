@@ -1,0 +1,6 @@
+DB name: Chinikayya
+Table: Customers(F_Name, L_Name, E_ADDRESS, Passcode, Phone_no, Country, State, DATE)
+Table: Products('$name', $price, '$image', NOW(), '$category', NULL)
+Table: Product_info(NULL, '$description', '$status', '$addition')
+Table: Customers_transaction(Product_Id, Product_status, Quantity, Customer_Id,  ID, DATE)
+Table: Supply('$p_name', '$p_description', NULL, NOW())

@@ -1,0 +1,15 @@
+[13-Oct-2018 08:26:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tambaya'@'standard4.doveserver.com' (using password: YES) in /home/chikayya/public_html/gen/gen/config.php on line 36
+[13-Oct-2018 08:26:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/chikayya/public_html/gen/gen/config.php on line 38
+[13-Oct-2018 08:26:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/chikayya/public_html/gen/gen/config.php on line 43
+[13-Oct-2018 08:26:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chikayya/public_html/gen/gen/config.php on line 46
+[13-Oct-2018 08:26:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/chikayya/public_html/gen/gen/config.php on line 59
+[15-Oct-2018 14:48:18 UTC] PHP Warning:  getimagesize(): corrupt JPEG data: 2647 extraneous bytes before marker in /home/chikayya/public_html/boss/product-form.php on line 114
+[16-Oct-2018 20:13:20 UTC] PHP Warning:  require_once(gen/gen/config.php): failed to open stream: No such file or directory in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:13:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'gen/gen/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:14:01 UTC] PHP Warning:  require_once(gen/gen/config.php): failed to open stream: No such file or directory in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:14:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'gen/gen/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:19:30 UTC] PHP Warning:  require_once(gen/gen/config.php): failed to open stream: No such file or directory in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:19:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'gen/gen/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:21:53 UTC] PHP Warning:  require_once(gen/gen/config.php): failed to open stream: No such file or directory in /home/chikayya/public_html/gen/gen/product.php on line 3
+[16-Oct-2018 20:21:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'gen/gen/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/chikayya/public_html/gen/gen/product.php on line 3
+[10-Jul-2019 05:27:01 UTC] PHP Fatal error:  Cannot redeclare getIn() (previously declared in /home/chikayya/public_html/gen/gen/config.php:8) in /home/chikayya/public_html/boss/gen/gen/config.php on line 8
